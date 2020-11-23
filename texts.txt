@@ -1,0 +1,4 @@
+some text for auto tweeting 
+should have several lines 
+blah-blah-blah
+hope you find it useful for your projects
